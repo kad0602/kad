@@ -1,0 +1,10 @@
+kseniia.log
+/data/
+/build/
+dubovyk_*
+/kad.txt
+*.jpeg
+*.log
+*.svg
+*.tmp
+**/*.bak
